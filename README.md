@@ -1,6 +1,6 @@
-# urun-ekleme
+# Product-Add
 
-> A Vue.js project
+> A Vue.js project, Developed by Şerifhan Işıklı, (Full Stack Software Engineer)
 
 ## Build Setup
 
